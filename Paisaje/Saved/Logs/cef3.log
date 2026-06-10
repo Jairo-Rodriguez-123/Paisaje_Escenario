@@ -1,10 +1,5 @@
-[28280:27780:0608/084100.308:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28280:27780:0608/084101.256:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28280:27780:0608/084127.159:ERROR:device_event_log_impl.cc(196)] [08:41:26.502] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[4436:22820:0608/084127.167:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E9D1A2516442A09BEDC89F835CD97C06 will be ignored
-[28280:27780:0608/085010.251:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28280:27780:0608/090036.212:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28280:27780:0608/090041.189:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28280:27780:0608/102755.320:ERROR:device_event_log_impl.cc(196)] [10:27:55.082] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[28280:27780:0608/140008.632:ERROR:device_event_log_impl.cc(196)] [14:00:08.525] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[28280:27780:0608/140233.086:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[29928:28540:0609/135159.196:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29928:28540:0609/135200.061:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13372:30824:0609/135303.100:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-252BC3668DE764613A6BC645F7CF2DB7 will be ignored
+[29928:28540:0609/135303.550:ERROR:device_event_log_impl.cc(196)] [13:53:03.067] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[29928:28540:0609/135850.412:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,12 @@
+[7428:23464:0608/220726.662:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7428:23464:0608/220727.422:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11904:19348:0608/220753.779:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D61F6153FF216587805B5CA0F67CE15B will be ignored
+[7428:23464:0608/220754.760:ERROR:device_event_log_impl.cc(196)] [22:07:54.445] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[7428:23464:0608/220949.936:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7428:23464:0608/220954.936:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7428:23464:0608/220959.939:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7428:23464:0608/222016.901:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7428:23464:0608/222021.945:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7428:23464:0608/222026.998:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7428:23464:0608/222329.895:ERROR:device_event_log_impl.cc(196)] [22:23:29.620] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[7428:23464:0608/222804.032:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
